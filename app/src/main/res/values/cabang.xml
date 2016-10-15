@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cabang">
+        <item>Surabaya</item>
+        <item>Sidoarjo</item>
+        <item>Malang</item>
+        <item>Jakarta</item>
+        <item>Bandung</item>
+        <item>Bali</item>
+    </string-array>
+</resources>
